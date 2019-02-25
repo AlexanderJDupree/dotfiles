@@ -1,0 +1,9 @@
+[submodule "dotbot"]
+	path = dotbot
+	url = https://github.com/anishathalye/dotbot
+[submodule "YCM-Generator"]
+	path = YCM-Generator
+	url = https://github.com/rdnetto/YCM-Generator.git
+[submodule "bash/git-aware-prompt"]
+	path = bash/git-aware-prompt
+	url = https://github.com/jimeh/git-aware-prompt.git

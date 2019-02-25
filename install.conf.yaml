@@ -1,0 +1,25 @@
+- defaults:
+    link:
+      relink: true
+
+- clean: ['~']
+
+- shell:
+    -mkdir -p ~/.vim ~/.bash ~/YCM-Generator ~/scripts 
+
+- link:
+    ~/.dotfiles: ''
+    ~/.vim: vim/
+    ~/.vimrc: vimrc
+    ~/.ideavimrc: ideavimrc
+    ~/.bash: bash/
+    ~/.bashrc: bashrc
+    ~/.bash_logout: bash_logout
+    ~/.profile: profile
+    ~/.gitconfig: gitconfig
+    ~/scripts: scripts/
+    ~/YCM-Generator: YCM-Generator/
+    
+-shell:
+    -[git submodule update --init --recursive, Installing submodules]
+
