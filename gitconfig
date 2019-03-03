@@ -1,3 +1,10 @@
 [user]
 	email = alexander.j.dupree@gmail.com
-	name = alexanderjdupree
+	name = Alexander DuPree
+    username = AlexanderJDupree
+
+[core]
+    editor = vim
+
+[diff]
+    tool = vimdiff
