@@ -6,5 +6,15 @@
 [core]
     editor = vim
 
+[color]
+	ui = auto
+
 [diff]
     tool = vimdiff
+
+[alias]
+    tree = log --graph --oneline --decorate --all
+
+[sequence]
+	editor = interactive-rebase-tool
+
