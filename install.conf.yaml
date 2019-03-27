@@ -5,7 +5,7 @@
 - clean: ['~']
 
 - shell:
-    -mkdir -p ~/.vim ~/.bash ~/YCM-Generator ~/scripts 
+    -mkdir -p ~/.vim ~/.bash ~/.config ~/YCM-Generator ~/scripts
 
 - link:
     ~/.dotfiles: ''
@@ -15,6 +15,10 @@
     ~/.bash: bash/
     ~/.bashrc: bashrc
     ~/.bash_logout: bash_logout
+    ~/.oh-my-zsh: oh-my-zsh/
+    ~/.zshrc : zshrc
+    ~/.config: config
+    ~/.ghc: ghc
     ~/.profile: profile
     ~/.gitconfig: gitconfig
     ~/scripts: scripts/

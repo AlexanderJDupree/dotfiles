@@ -12,21 +12,28 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
-" Put plugins here:
+" Coloscheme plugins
 Plugin 'morhetz/gruvbox'
+Plugin 'mhartington/oceanic-next'
+Plugin 'sickill/vim-monokai'
+Plugin 'tyrannicaltoucan/vim-deep-space'
+Plugin 'arcticicestudio/nord-vim'
+
+" Put plugins here:
 Plugin 'scrooloose/nerdtree'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'vim-syntastic/syntastic'
-Plugin 'vim-scripts/DoxygenToolkit.vim'
 Plugin 'christoomey/vim-tmux-navigator'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'jiangmiao/auto-pairs'
 Plugin 'tpope/vim-fugitive'
 Plugin 'vim-airline/vim-airline'
-Plugin 'stevearc/vim-arduino'
-"Plugin 'ervandew/supertab'
-"Plugin 'SirVer/ultisnips'
-"Plugin 'honza/vim-snippets'
+Plugin 'kien/ctrlp.vim'
+Plugin 'tpope/vim-surround'
+Plugin 'wesQ3/vim-windowswap'
+Plugin 'majutsushi/tagbar'
+
+
 
 " All Plugins must be added before the following line
 call vundle#end()
@@ -64,6 +71,7 @@ set splitbelow          " Open new splits to the bottom
 set lazyredraw          " reduce the redraw frequency
 set wrap linebreak nolist " Achieves soft text wrapping
 set pastetoggle=<F2>    " Turns off autoindent for pasting source code
+set termguicolors
 
 " Persistent undo
 set undodir=~/.vim/undo/
@@ -72,7 +80,7 @@ set undolevels=1000
 set undoreload=10000
 
 " Opens NERDTree on startup
-autocmd vimenter * NERDTree
+"autocmd vimenter * NERDTree
 " Closes Vim if NERDTree is the only window open
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 
@@ -110,11 +118,11 @@ let g:ycm_global_ycm_extra_conf = '~/.vim/.ycm_extra_conf.py'
 " Colors & Formatting
 "------------------------------------------------------------------------------
 
-colorscheme gruvbox
+colorscheme deep-space
 set background=dark
 
 " Set background to tranparent
-hi Normal ctermbg=None
+"hi Normal ctermbg=None
 
 " Showcase comments in italics
 "highlight Comment cterm=italic gui=italic
@@ -126,14 +134,12 @@ hi Normal ctermbg=None
 " remap leader key
 let mapleader = ","
 
+" ctrlp fuzzy file finder
+let g:ctrlp_map = '<c-p>'
+let g:ctrlp_cmd = 'CtrlP'
 " _ is beginning of line, + is end of line
 noremap _ 0
 noremap + $  
-
-" Compile and build
-autocmd filetype cpp nnoremap <F5> :w<CR> :make%<<CR>
-" Build and Run
-autocmd filetype cpp nnoremap <F9> :w<CR> :!clear; make %<<CR> :!./%<<CR>
 
 " NerdTree toggle
 map <C-n> :NERDTreeToggle<CR>
@@ -157,6 +163,9 @@ nnoremap <leader>ev :vsplit $MYVIMRC<cr>
 " Source .vimrc ( To apply changes )
 nnoremap <leader>sv :source $MYVIMRC<cr>
 
+" tagbar
+map <silent> TT :TagbarToggle<CR>
+
 " Toggle color column
 command! ToggleCC :let &cc = &cc == '' ? '81' : ''
 nnoremap cc :let &cc = &cc == '' ? '81': ''<CR>
@@ -174,16 +183,45 @@ function! Toggle_transparent()
 endfunction
 nnoremap <C-t> : call Toggle_transparent()<CR>
 
+" Terminal Toggle
+let g:term_buf = 0
+let g:term_win = 0 
+function! Term(height)
+    if win_gotoid(g:term_win)
+        hide
+    else
+        botright new
+        exec "resize " . a:height
+        try
+            exec "buffer " . g:term_buf
+        catch
+            call termopen($SHELL, {"detach": 0})
+            let g:term_buf = bufnr("")
+            set nonumber
+            set norelativenumber
+            set signcolumn=no
+        endtry
+        startinsert!
+        let g:term_win = win_getid()
+    endif
+endfunction
+
+" Toggle terminal on/off (neovim)
+nnoremap <leader>t :call Term(12)<CR>
+
+" Terminal go back to normal mode
+tnoremap <Esc> <C-\><C-n>
+tnoremap :q! <C-\><C-n>:q!<CR>
+
 " For arduino development, status bar
 " my_file.ino [arduino:avr:uno] [arduino:usbtinyisp] (/dev/ttyACM0:9600)
-function! MyStatusLine()
-  let port = arduino#GetPort()
-  let line = '%f [' . g:arduino_board . '] [' . g:arduino_programmer . ']'
-  if !empty(port)
-    let line = line . ' (' . port . ':' . g:arduino_serial_baud . ')'
-  endif
-  return line
-endfunction
-setl statusline=%!MyStatusLine()
-
+"function! MyStatusLine()
+"  let port = arduino#GetPort()
+"  let line = '%f [' . g:arduino_board . '] [' . g:arduino_programmer . ']'
+"  if !empty(port)
+"    let line = line . ' (' . port . ':' . g:arduino_serial_baud . ')'
+"  endif
+"  return line
+"endfunction
+"setl statusline=%!MyStatusLine()
 

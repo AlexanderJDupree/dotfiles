@@ -1,0 +1,1069 @@
+{
+   "checksum": "b6c19e04b7f247091bff7354843d3f71",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13161139230263263",
+            "id": "47",
+            "name": "top.dvi",
+            "sync_transaction_version": "8",
+            "type": "url",
+            "url": "http://www.greenteapress.com/thinkcpp/thinkCScpp.pdf"
+         }, {
+            "date_added": "13167192827752880",
+            "id": "48",
+            "meta_info": {
+               "last_visited_desktop": "13196309448909596"
+            },
+            "name": "Workday",
+            "sync_transaction_version": "9",
+            "type": "url",
+            "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/userHome?source=Jobs_at_Intel_Home"
+         }, {
+            "date_added": "13167201273701457",
+            "id": "49",
+            "meta_info": {
+               "last_visited_desktop": "13193985013570460"
+            },
+            "name": "Food/Nutrient Database",
+            "sync_transaction_version": "10",
+            "type": "url",
+            "url": "https://www.jimstoppani.com/home/articles/foodnutrient-database"
+         }, {
+            "date_added": "13167201280470419",
+            "id": "50",
+            "meta_info": {
+               "last_visited_desktop": "13195869819272916"
+            },
+            "name": "Super Shredded 8",
+            "sync_transaction_version": "11",
+            "type": "url",
+            "url": "https://www.jimstoppani.com/home/featured-workouts/super-shredded-8"
+         }, {
+            "date_added": "13167465614817775",
+            "id": "51",
+            "meta_info": {
+               "last_visited_desktop": "13196930543406826"
+            },
+            "name": "A Super-Simple Makefile for Medium-Sized C/C++ Projects",
+            "sync_transaction_version": "45",
+            "type": "url",
+            "url": "https://spin.atomicobject.com/2016/08/26/makefile-c-projects/"
+         }, {
+            "date_added": "13174104669755541",
+            "id": "52",
+            "meta_info": {
+               "last_visited_desktop": "13192950856690828"
+            },
+            "name": "git_cheat_sheet.md",
+            "sync_transaction_version": "82",
+            "type": "url",
+            "url": "https://gist.github.com/jordanhudgens/694b62775a6f984895ce3af91c09f2aa"
+         }, {
+            "date_added": "13174436806472701",
+            "id": "53",
+            "meta_info": {
+               "last_visited_desktop": "13193692586633435"
+            },
+            "name": "Voice:  Active and Passive",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://webapps.towson.edu/ows/activepass.htm"
+         }, {
+            "date_added": "13174458097314483",
+            "id": "54",
+            "meta_info": {
+               "last_visited_desktop": "13195779412816559"
+            },
+            "name": "How to automate SSH login with password? - Server Fault",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://serverfault.com/questions/241588/how-to-automate-ssh-login-with-password"
+         }, {
+            "date_added": "13174553805480335",
+            "id": "55",
+            "meta_info": {
+               "last_visited_desktop": "13195689165727163"
+            },
+            "name": "c++ - What are move semantics? - Stack Overflow",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/3106110/what-are-move-semantics#"
+         }, {
+            "date_added": "13174554793185429",
+            "id": "56",
+            "name": "Functional programming - HaskellWiki",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://web.archive.org/web/20140116130356/http://www.haskell.org/haskellwiki/Functional_programming#Purity"
+         }, {
+            "date_added": "13174555680356889",
+            "id": "57",
+            "name": "Want Speed? Pass by Value. « C++Next",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://web.archive.org/web/20140113221447/http://cpp-next.com/archive/2009/08/want-speed-pass-by-value/"
+         }, {
+            "date_added": "13175839989001730",
+            "id": "58",
+            "meta_info": {
+               "last_visited_desktop": "13176074013288937"
+            },
+            "name": "sindresorhus/awesome: Curated list of awesome lists",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/sindresorhus/awesome#readme"
+         }, {
+            "date_added": "13175840165903829",
+            "id": "59",
+            "meta_info": {
+               "last_visited_desktop": "13175840165903976"
+            },
+            "name": "mhinz/vim-galore: All things Vim!",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/mhinz/vim-galore#quickly-jump-to-header-or-source-file"
+         }, {
+            "date_added": "13175840246879378",
+            "id": "60",
+            "meta_info": {
+               "last_visited_desktop": "13175840246879528"
+            },
+            "name": "mhinz/vim-galore: All things Vim!",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/mhinz/vim-galore#readme"
+         }, {
+            "date_added": "13175840926494968",
+            "id": "61",
+            "meta_info": {
+               "last_visited_desktop": "13196728054558137"
+            },
+            "name": "CS 97SI: Introduction to Programming Contests",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://web.stanford.edu/class/cs97si/"
+         }, {
+            "date_added": "13175844267443182",
+            "id": "62",
+            "meta_info": {
+               "last_visited_desktop": "13192934225554478"
+            },
+            "name": "Your Paper - Overleaf",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.overleaf.com/17778587zshyhngnndxz#/67391485/"
+         }, {
+            "date_added": "13175844951303552",
+            "id": "63",
+            "meta_info": {
+               "last_visited_desktop": "13175844951303713"
+            },
+            "name": "Visualizing Garbage Collection Algorithms",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/"
+         }, {
+            "date_added": "13175844991721357",
+            "id": "64",
+            "meta_info": {
+               "last_visited_desktop": "13175844991721502"
+            },
+            "name": "prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/prakhar1989/awesome-courses#readme"
+         }, {
+            "date_added": "13175845554373013",
+            "id": "65",
+            "meta_info": {
+               "last_visited_desktop": "13175904417560026"
+            },
+            "name": "CIS194",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.seas.upenn.edu/~cis194/fall16/"
+         }, {
+            "date_added": "13175847161537866",
+            "id": "66",
+            "name": "adishavit/argh: Argh! A minimalist argument handler.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/adishavit/argh"
+         }, {
+            "date_added": "13175847288669863",
+            "id": "67",
+            "name": "fffaraz/awesome-cpp: A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/fffaraz/awesome-cpp#cli"
+         }, {
+            "date_added": "13176076400350837",
+            "id": "68",
+            "meta_info": {
+               "last_visited_desktop": "13177883741227551"
+            },
+            "name": "Briefing-National-ID-3.pdf",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.fma.ph/wp-content/uploads/2018/02/Briefing-National-ID-3.pdf"
+         }, {
+            "date_added": "13176076791648717",
+            "id": "69",
+            "meta_info": {
+               "last_visited_desktop": "13177883724693025"
+            },
+            "name": "DATA PRIVACY IN THE PHILIPPINES | Nicolas & De Vega Law Offices",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ndvlaw.com/data-privacy-in-the-philippines/"
+         }, {
+            "date_added": "13176076794937692",
+            "id": "70",
+            "meta_info": {
+               "last_visited_desktop": "13176076794937850"
+            },
+            "name": "How Philippine state surveillance is used as a tool to silence critics | Asia Pacific Report",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://asiapacificreport.nz/2018/03/22/how-philippine-state-surveillance-is-used-as-a-tool-to-silence-critics/"
+         }, {
+            "date_added": "13176077218656215",
+            "id": "71",
+            "meta_info": {
+               "last_visited_desktop": "13177274107064951"
+            },
+            "name": "(PDF) 50 Years of Biometric Research:...",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.researchgate.net/publication/290509735_50_Years_of_Biometric_Research_Accomplishments_Challenges_and_Opportunities"
+         }, {
+            "date_added": "13176077221828232",
+            "id": "72",
+            "meta_info": {
+               "last_visited_desktop": "13177273962458531"
+            },
+            "name": "Biometrics Research Group",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://biometrics.cse.msu.edu/info/index.html"
+         }, {
+            "date_added": "13176077224205221",
+            "id": "73",
+            "meta_info": {
+               "last_visited_desktop": "13176077224205355"
+            },
+            "name": "Biometrics - Wikipedia",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Biometrics#cite_note-3"
+         }, {
+            "date_added": "13176847008257127",
+            "id": "74",
+            "meta_info": {
+               "last_visited_desktop": "13177274605865770"
+            },
+            "name": "World Report 2018: Philippines | Human Rights Watch",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.hrw.org/world-report/2018/country-chapters/philippines"
+         }, {
+            "date_added": "13177215789026597",
+            "id": "75",
+            "meta_info": {
+               "last_visited_desktop": "13177275150080449"
+            },
+            "name": "Country Reports on Human Rights Practices for 2017",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm?year=2017&dlid=277111#wrapper"
+         }, {
+            "date_added": "13177885825028120",
+            "id": "76",
+            "meta_info": {
+               "last_visited_desktop": "13178231915159481"
+            },
+            "name": "National ID system bill up for Duterte's signature",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.rappler.com/nation/203725-national-id-system-philippines-ratified-duterte-signature"
+         }, {
+            "date_added": "13178915459136801",
+            "id": "77",
+            "meta_info": {
+               "last_visited_desktop": "13187055608168554"
+            },
+            "name": "B-Tree Visualization",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.cs.usfca.edu/~galles/visualization/BTree.html"
+         }, {
+            "date_added": "13191537660982043",
+            "id": "78",
+            "meta_info": {
+               "last_visited_desktop": "13197313873708214"
+            },
+            "name": "Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf",
+            "sync_transaction_version": "64",
+            "type": "url",
+            "url": "https://lila1.lyryx.com/textbooks/KUTTLER_1/marketing/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf"
+         }, {
+            "date_added": "13191977653636230",
+            "id": "79",
+            "name": "ISO/IEC 9899:201x",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf"
+         }, {
+            "date_added": "13191979988188476",
+            "id": "80",
+            "name": "Nickle Tutorial",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://nickle.org/tutorial/"
+         }, {
+            "date_added": "13192785759145380",
+            "id": "81",
+            "name": "YC Work at a Startup",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.workatastartup.com/"
+         }, {
+            "date_added": "13194399913827450",
+            "id": "82",
+            "meta_info": {
+               "last_visited_desktop": "13194507501517900"
+            },
+            "name": "Understanding C by learning assembly - Blog - Recurse Center",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.recurse.com/blog/7-understanding-c-by-learning-assembly"
+         }, {
+            "date_added": "13194596650235099",
+            "id": "83",
+            "meta_info": {
+               "last_visited_desktop": "13194596650235561"
+            },
+            "name": "Insane Coding",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://insanecoding.blogspot.com/"
+         }, {
+            "date_added": "13194998824075341",
+            "id": "84",
+            "meta_info": {
+               "last_visited_desktop": "13194998824075857"
+            },
+            "name": "Mail Index",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://intranet.cecs.pdx.edu/careers/archives/cs/"
+         }, {
+            "date_added": "13194998973986648",
+            "id": "85",
+            "meta_info": {
+               "last_visited_desktop": "13194998973987340"
+            },
+            "name": "INTERNSHIP: Debug Tools Engineer (UNDERGRADUATE ONLY), Intel, Hillsboro, OR",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://intranet.cecs.pdx.edu/careers/archives/cs/msg03620.html"
+         }, {
+            "date_added": "13195003454976659",
+            "id": "86",
+            "meta_info": {
+               "last_visited_desktop": "13195003454977802"
+            },
+            "name": "gdb cheatsheet.pdf",
+            "sync_transaction_version": "93",
+            "type": "url",
+            "url": "http://web.cecs.pdx.edu/~markem/CS201/references/gdb%20cheatsheet.pdf"
+         }, {
+            "date_added": "13195003476853780",
+            "id": "87",
+            "meta_info": {
+               "last_visited_desktop": "13195003476854346"
+            },
+            "name": "7-1-ctools.p",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://wiki.cs.pdx.edu/cs201-winter2019/notes/7-1-ctools.p.html"
+         }, {
+            "date_added": "13195542273353235",
+            "id": "88",
+            "meta_info": {
+               "last_visited_desktop": "13195545584393791"
+            },
+            "name": "Android Basics: User Interface | Udacity",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.udacity.com/course/android-basics-user-interface--ud834"
+         }, {
+            "date_added": "13195544834429289",
+            "id": "89",
+            "meta_info": {
+               "last_visited_desktop": "13195544834429479"
+            },
+            "name": "Common Android Views Cheat Sheet.pdf - Google Drive",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/0B5XIkMkayHgRMVljUVIyZzNmQUU/view"
+         }, {
+            "date_added": "13195548280060357",
+            "id": "90",
+            "meta_info": {
+               "last_visited_desktop": "13195548334874455"
+            },
+            "name": "Google Codelabs",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://codelabs.developers.google.com/"
+         }, {
+            "date_added": "13195550359744531",
+            "id": "91",
+            "meta_info": {
+               "last_visited_desktop": "13195550359745971"
+            },
+            "name": "Shell startup scripts — flowblok’s blog",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html"
+         }, {
+            "date_added": "13195551055711239",
+            "id": "92",
+            "meta_info": {
+               "last_visited_desktop": "13195602753945275"
+            },
+            "name": "Home · cat /var/log/life",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.anishathalye.com/"
+         }, {
+            "date_added": "13195608500442041",
+            "id": "93",
+            "meta_info": {
+               "last_visited_desktop": "13195634580952028"
+            },
+            "name": "Tutorial Premake example with GLFW and OpenGL · premake/premake-core Wiki",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/premake/premake-core/wiki/Tutorial-Premake-example-with-GLFW-and-OpenGL"
+         }, {
+            "date_added": "13195634336032667",
+            "id": "94",
+            "meta_info": {
+               "last_visited_desktop": "13195634336032917"
+            },
+            "name": "Find Courses by Topic | MIT OpenCourseWare | Free Online Course Materials",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience&spec=operatingsystems"
+         }, {
+            "date_added": "13195887759601705",
+            "id": "95",
+            "meta_info": {
+               "last_visited_desktop": "13195887821072685"
+            },
+            "name": "The C Preprocessor: Common Predefined Macros",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://gcc.gnu.org/onlinedocs/cpp/Common-Predefined-Macros.html#Common-Predefined-Macros"
+         }, {
+            "date_added": "13195888029883894",
+            "id": "96",
+            "meta_info": {
+               "last_visited_desktop": "13195893609222538"
+            },
+            "name": "C/C++ tip: How to detect the operating system type using compiler predefined macros | Nadeau Software",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://nadeausoftware.com/articles/2012/01/c_c_tip_how_use_compiler_predefined_macros_detect_operating_system"
+         }, {
+            "date_added": "13102446837000000",
+            "id": "97",
+            "meta_info": {
+               "last_visited_desktop": "13196755107194670"
+            },
+            "name": "Manjaro Linux",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://manjaro.org/"
+         }, {
+            "date_added": "13102446886000000",
+            "id": "98",
+            "name": "Manjaro Wiki",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://wiki.manjaro.org/index.php?title=Main_Page"
+         }, {
+            "date_added": "13102446920000000",
+            "id": "99",
+            "name": "Manjaro Forum",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://forum.manjaro.org/"
+         }, {
+            "date_added": "13196888208597006",
+            "id": "105",
+            "meta_info": {
+               "last_visited_desktop": "13196888208597160"
+            },
+            "name": "jondot/awesome-devenv: A curated list of awesome tools, resources and workflow tips making an awesome development environment.",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "https://github.com/jondot/awesome-devenv"
+         }, {
+            "date_added": "13196889838804983",
+            "id": "106",
+            "meta_info": {
+               "last_visited_desktop": "13198045226253380"
+            },
+            "name": "Get started - Documentation - News API",
+            "sync_transaction_version": "107",
+            "type": "url",
+            "url": "https://newsapi.org/docs/get-started"
+         }, {
+            "date_added": "13197354966311609",
+            "id": "119",
+            "meta_info": {
+               "last_visited_desktop": "13197354966312248"
+            },
+            "name": "Shougo/deoplete.nvim: Dark powered asynchronous completion framework for neovim/Vim8",
+            "sync_transaction_version": "90",
+            "type": "url",
+            "url": "https://github.com/Shougo/deoplete.nvim"
+         }, {
+            "date_added": "13197355024471501",
+            "id": "120",
+            "meta_info": {
+               "last_visited_desktop": "13197355024472391"
+            },
+            "name": "takac/vim-hardtime: Plugin to help you stop repeating the basic movement keys",
+            "sync_transaction_version": "90",
+            "type": "url",
+            "url": "https://github.com/takac/vim-hardtime"
+         }, {
+            "date_added": "13197355171674033",
+            "id": "121",
+            "meta_info": {
+               "last_visited_desktop": "13197355171674988"
+            },
+            "name": "Chiel92/vim-autoformat: Provide easy code formatting in Vim by integrating existing code formatters.",
+            "sync_transaction_version": "90",
+            "type": "url",
+            "url": "https://github.com/Chiel92/vim-autoformat"
+         } ],
+         "date_added": "13196803072050186",
+         "date_modified": "13197516741384157",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13196803072050194",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "110",
+      "synced": {
+         "children": [ {
+            "date_added": "13153106410200699",
+            "id": "5",
+            "name": "S.M.A.R.T. Alarm Clock | Make:",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://makezine.com/projects/s-m-a-r-t-alarm-clock/"
+         }, {
+            "date_added": "13160103230707870",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13160103230708124"
+            },
+            "name": "Unreal Engine 4 Mastery: Create Multiplayer Games with C++ | Udemy",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.udemy.com/unrealengine-cpp/?couponCode=EGTL1099"
+         }, {
+            "date_added": "13160108651391600",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13160108651391838"
+            },
+            "name": "Unreal Engine 4 Mastery: Create Multiplayer Games with C++ in New Course from Udemy",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.unrealengine.com/en-US/blog/unreal-engine-4-mastery-create-multiplayer-games-with-c-in-new-course-from-udemy?utm_source=launcher&utm_medium=chromium&utm_term=forum&utm_content=MasteryInCPP&utm_campaign=communitytab"
+         }, {
+            "date_added": "13160298720708916",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13163644377349798"
+            },
+            "name": "C++ Banking System Project",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.cppforschool.com/project/banking-system-project.html"
+         }, {
+            "date_added": "13160546646862312",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13160546864933710"
+            },
+            "name": "scripting - What is the most useful script you've written for everyday life? - Stack Overflow",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/188162/what-is-the-most-useful-script-youve-written-for-everyday-life"
+         }, {
+            "date_added": "13160548282002673",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13160548282002913"
+            },
+            "name": "www.intuitivestories.com/wicked/scripts/062-define.txt",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.intuitivestories.com/wicked/scripts/062-define.txt"
+         }, {
+            "date_added": "13160714387248367",
+            "id": "11",
+            "name": "8 tips for getting hired by a tech company in 2016",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://mashable.com/2016/02/18/rules-hired-tech-company/#vEJBQFBgfZqw"
+         }, {
+            "date_added": "13167593576831783",
+            "id": "12",
+            "meta_info": {
+               "last_visited": "13168487096171236"
+            },
+            "name": "The 10 Best Programming Games to Test and Build Your Coding Skills",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.makeuseof.com/tag/best-programming-games/"
+         }, {
+            "date_added": "13167853536042489",
+            "id": "13",
+            "meta_info": {
+               "last_visited": "13167873652313986"
+            },
+            "name": "Make A Resume Website From Scratch – Robert Cobb – Medium",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/@robcobbable/make-a-resume-website-from-scratch-991845147ec"
+         }, {
+            "date_added": "13167942846394342",
+            "id": "14",
+            "meta_info": {
+               "last_visited": "13167942846402633"
+            },
+            "name": "Your own OpenVPN, or: How to make all WiFi hotspots trustworthy - Zurgl",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://zurgl.com/your-own-openvpn-or-how-to-make-all-wifi-hotspots-trustworthy/"
+         }, {
+            "date_added": "13169009610169626",
+            "id": "15",
+            "meta_info": {
+               "last_visited": "13169026978064701"
+            },
+            "name": "The Mistakes I Made As a Beginner Programmer – Samer Buna – Medium",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312"
+         }, {
+            "date_added": "13169026964595184",
+            "id": "16",
+            "meta_info": {
+               "last_visited": "13169026964600302"
+            },
+            "name": "Audiobooks for programmers? - Software Engineering Stack Exchange",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://softwareengineering.stackexchange.com/questions/95876/audiobooks-for-programmers"
+         }, {
+            "date_added": "13169674051572649",
+            "id": "17",
+            "meta_info": {
+               "last_visited": "13170290604821649"
+            },
+            "name": "Microsoft Build Live 2018",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://developer.microsoft.com/en-us/events/build"
+         }, {
+            "date_added": "13170372797135176",
+            "id": "18",
+            "meta_info": {
+               "last_visited_desktop": "13170372797135777"
+            },
+            "name": "Take Test: Week 5 - Classes Worksheet – CS162_PW_H1_SP18",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://mhcc.blackboard.com/webapps/assessment/take/launch.jsp?course_assessment_id=_98763_1&course_id=_30882_1&content_id=_1253366_1&step=null"
+         }, {
+            "date_added": "13171578728129491",
+            "id": "19",
+            "name": "Azure the cloud for all – highlights from Microsoft BUILD 2018 | Blog | Microsoft Azure",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://azure.microsoft.com/en-us/blog/azure-the-cloud-for-all-highlights-from-microsoft-build-2018/"
+         }, {
+            "date_added": "13171642477487568",
+            "id": "20",
+            "name": "solarized dark linux wallpapers",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://linux.pictures/projects/solarized-dark-wallpaper"
+         }, {
+            "date_added": "13171705511659081",
+            "id": "21",
+            "name": "variable assignment - Copy constructor and = operator overload in C++: is a common function possible? - Stack Overflow",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/1734628/copy-constructor-and-operator-overload-in-c-is-a-common-function-possible"
+         }, {
+            "date_added": "13171706307207354",
+            "id": "22",
+            "name": "c++ - What is the copy-and-swap idiom? - Stack Overflow",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/3279543/what-is-the-copy-and-swap-idiom"
+         }, {
+            "date_added": "13171742706558129",
+            "id": "23",
+            "name": "New Azure innovations are helping developers write code today for tomorrow’s technology challenges | Blog | Microsoft Azure",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://azure.microsoft.com/en-us/blog/new-azure-innovations-are-helping-developers-write-code-today-for-tomorrow-s-technology-challenges/"
+         }, {
+            "date_added": "13172285727998774",
+            "id": "24",
+            "name": "nlohmann/json: JSON for Modern C++",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/nlohmann/json"
+         }, {
+            "date_added": "13172305414536343",
+            "id": "25",
+            "meta_info": {
+               "last_visited": "13173852632974687"
+            },
+            "name": "How you can learn Git and GitHub while you’re learning to code",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.freecodecamp.org/how-you-can-learn-git-and-github-while-youre-learning-to-code-7a592ea287ba"
+         }, {
+            "date_added": "13172474694051325",
+            "id": "26",
+            "name": "c++ - Why can templates only be implemented in the header file? - Stack Overflow",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/495021/why-can-templates-only-be-implemented-in-the-header-file"
+         }, {
+            "date_added": "13172901330509740",
+            "id": "27",
+            "name": "Question - Quora",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.quora.com/What-is-the-best-programmable-drone"
+         }, {
+            "date_added": "13173610496907119",
+            "id": "28",
+            "name": "How to get up to 3500+ GitHub stars in one week — and why that’s important.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.freecodecamp.org/how-to-get-up-to-3500-github-stars-in-one-week-339102b62a8f"
+         }, {
+            "date_added": "13173698985836759",
+            "id": "29",
+            "name": "Huston Design Patterns",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.vincehuston.org/dp/"
+         }, {
+            "date_added": "13173985479300145",
+            "id": "30",
+            "meta_info": {
+               "last_visited": "13173998692443297"
+            },
+            "name": "24 Ultimate Data Science Projects To Boost Your Knowledge and Skills (& can be accessed freely)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/"
+         }, {
+            "date_added": "13176895854514955",
+            "id": "31",
+            "meta_info": {
+               "last_visited": "13176895854542761"
+            },
+            "name": "Building Reactive Terminal Interfaces in C++ – Hacker Noon",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://hackernoon.com/building-reactive-terminal-interfaces-in-c-d392ce34e649"
+         }, {
+            "date_added": "13179599089884871",
+            "id": "32",
+            "meta_info": {
+               "last_visited": "13179599335030144"
+            },
+            "name": "CLI: improved",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://remysharp.com/2018/08/23/cli-improved"
+         }, {
+            "date_added": "13184386265405322",
+            "id": "33",
+            "meta_info": {
+               "last_visited": "13184386340056411"
+            },
+            "name": "November reservations now available!!",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.nodoguropdx.com/store/c6/November_reservations_now_available%21%21.html"
+         }, {
+            "date_added": "13185671880461397",
+            "id": "34",
+            "meta_info": {
+               "last_visited_desktop": "13185671880461822"
+            },
+            "name": "delete",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ccrma.stanford.edu/~jos/stkintro/Useful_commands_gdb.html"
+         }, {
+            "date_added": "13186817283578327",
+            "id": "35",
+            "meta_info": {
+               "last_visited_desktop": "13186817283578569"
+            },
+            "name": "CS163/binary_search_tree.h at master · AlexanderJDupree/CS163",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/AlexanderJDupree/CS163/blob/master/program4/include/binary_search_tree.h"
+         }, {
+            "date_added": "13188443343412711",
+            "id": "36",
+            "meta_info": {
+               "last_visited_desktop": "13188443343413571"
+            },
+            "name": "Web Developer Intern | Careers | Web Development, Mobile App Development, Software Development | Boulder, Portland, Seattle, Austin | Culture Foundry",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.culturefoundry.com/careers/web-developer-intern"
+         }, {
+            "date_added": "13188628510134846",
+            "id": "37",
+            "meta_info": {
+               "last_visited_desktop": "13188707470786479"
+            },
+            "name": "Hades - Battle Out of Hell",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.epicgames.com/store/en-US/product/hades/home"
+         }, {
+            "date_added": "13191277862718479",
+            "id": "38",
+            "name": "Computer Systems: A Programmer's Perspective",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://piazza-resources.s3.amazonaws.com/j7ly9riuca97on/ja86xbbpp0b73b/Randal_E._Bryant_David_R._OHallaron_Computer_SBookZZ.org.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAR6AWVCBXZPKZMF2D%2F20190106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190106T195047Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Security-Token=FQoGZXIvYXdzEPL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDIqDKjs425%2FIAc5%2BuiK3AzKXu2fuvKv9Fpcbai7JZESwurHxFmS1WZ76PHNZ4%2BZxNSL5JIYNXvzs4VVpiAxvXENziIhQ1G7yhcPwiK2WfcgIT6ZNn%2Bgn72nmM2nIEaEQ2DJvSttAAxrpTWvTDqwCSvlm989zx7leneroIxhArn5mX69ysbe80qM0rZgys9LCZ4hQsofDT6TCGXBB1OeWl6TRTqz4x6RjmGe1a3hhY1tA26zqs%2Bxwx%2FfvOUHgJ6lMR1W1jUNDjfGytEDvGL%2BWZmYXqVlBGYupfFfl0dRcRJElV%2BL9nrdEhR5rKw5ukQpYQYL33majdnuud12GWnzVfCHNmnvzGjmUTGqXsglCh919o0K5BwXUiRgzj2N4r24XkAz4bp5RGxvgKit99WZ1hfa9PXwfiztDXSOq%2FOXU6rD4bGBYwK9DdAFVndY5WyVePJDSwoMVG2DZkiZC4tHkJUb3pKr7EJnJWVP1uj%2B%2F6WHDEIcZzmplByyFd4OxSH7uRq%2FPreGmIx7AoJTS%2FLPuudHWz3%2F94%2Bg9ZO4uTaEZ1T5MYhb%2BPacEnEIHBhN%2BkHmEcJ36acfKSEF9V95ftOQdIuex04spgNYoweLI4QU%3D&X-Amz-Signature=26acd06a5c3cb1a4356e5b21f4ff713ca96afdf4af8c7260b613b794b430c3e1"
+         }, {
+            "date_added": "13191839053875340",
+            "id": "39",
+            "name": "VRPorn.com - #1 VR Porn Site in the World",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://vrporn.com/"
+         }, {
+            "date_added": "13193119905510092",
+            "id": "40",
+            "meta_info": {
+               "last_visited": "13193119914271643"
+            },
+            "name": "ginh/ginh.sh at master · crclark96/ginh · GitHub",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/crclark96/ginh/blob/master/ginh.sh"
+         }, {
+            "date_added": "13193209668374570",
+            "id": "41",
+            "meta_info": {
+               "last_visited_desktop": "13193209668375444"
+            },
+            "name": "(2) Kirchhoff's laws (article) | Circuits | Khan Academy",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.khanacademy.org/science/physics/circuits-topic/circuits-resistance/v/electric-power"
+         }, {
+            "date_added": "13193362887412941",
+            "id": "42",
+            "meta_info": {
+               "last_visited_desktop": "13193362919930398"
+            },
+            "name": "Open Source Guides | Learn how to launch and grow your project.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://opensource.guide/"
+         }, {
+            "date_added": "13193446128476161",
+            "id": "43",
+            "meta_info": {
+               "last_visited": "13193446128479432"
+            },
+            "name": "Archive - Hash Code",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://codingcompetitions.withgoogle.com/hashcode/archive"
+         }, {
+            "date_added": "13193813853826580",
+            "id": "44",
+            "meta_info": {
+               "last_visited": "13193813917581003"
+            },
+            "name": "The International Obfuscated C Code Contest",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.ioccc.org/"
+         }, {
+            "date_added": "13196148450182354",
+            "id": "45",
+            "meta_info": {
+               "last_visited": "13196233252196241"
+            },
+            "name": "git - the simple guide - no deep shit!",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://rogerdudler.github.io/git-guide/"
+         }, {
+            "date_added": "13196216251602116",
+            "id": "46",
+            "meta_info": {
+               "last_visited_desktop": "13197579665750206"
+            },
+            "name": "syllabus better cs201",
+            "sync_transaction_version": "100",
+            "type": "url",
+            "url": "http://web.cecs.pdx.edu/~markem/CS201/syllabus"
+         }, {
+            "date_added": "13196824846646352",
+            "id": "101",
+            "meta_info": {
+               "last_visited_desktop": "13196824846646996"
+            },
+            "name": "lanoxx/tilda: A Gtk based drop down terminal for Linux and Unix",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "https://github.com/lanoxx/tilda/"
+         }, {
+            "date_added": "13196843331366783",
+            "id": "103",
+            "meta_info": {
+               "last_visited_desktop": "13196843331367065"
+            },
+            "name": "GDM - ArchWiki",
+            "sync_transaction_version": "26",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/GDM#Log-in_screen_background_image"
+         }, {
+            "date_added": "13196894170557221",
+            "id": "107",
+            "meta_info": {
+               "last_visited_desktop": "13196894170558352"
+            },
+            "name": "https://www.kernel.org/doc/Documentation/filesystems/proc.txt",
+            "sync_transaction_version": "35",
+            "type": "url",
+            "url": "https://www.kernel.org/doc/Documentation/filesystems/proc.txt"
+         }, {
+            "date_added": "13196912230626034",
+            "id": "109",
+            "meta_info": {
+               "last_visited_desktop": "13196923882238208"
+            },
+            "name": "[Manjaro KDE+i3] My first real attempt at ricing once I finally found the distro, DE and WM combination I love : unixporn",
+            "sync_transaction_version": "43",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/71nen2/manjaro_kdei3_my_first_real_attempt_at_ricing/"
+         }, {
+            "date_added": "13196990745264054",
+            "id": "111",
+            "meta_info": {
+               "last_visited_desktop": "13196990745264997"
+            },
+            "name": "Job #2.2 - AlexanderJDupree/BigInt - Travis CI",
+            "sync_transaction_version": "51",
+            "type": "url",
+            "url": "https://travis-ci.com/AlexanderJDupree/BigInt/jobs/184705202"
+         }, {
+            "date_added": "13197011547478981",
+            "id": "113",
+            "meta_info": {
+               "last_visited": "13197929759201420"
+            },
+            "name": "gcc - Docker Hub",
+            "sync_transaction_version": "101",
+            "type": "url",
+            "url": "https://hub.docker.com/_/gcc"
+         }, {
+            "date_added": "13197091662626746",
+            "id": "115",
+            "meta_info": {
+               "last_visited_desktop": "13197091662627363"
+            },
+            "name": "3. Data model — Python 3.7.3rc1 documentation",
+            "sync_transaction_version": "60",
+            "type": "url",
+            "url": "https://docs.python.org/3/reference/datamodel.html"
+         }, {
+            "date_added": "13197319297285560",
+            "id": "117",
+            "meta_info": {
+               "last_visited": "13197500649559458"
+            },
+            "name": "Series: Unix as IDE « Arabesque",
+            "sync_transaction_version": "90",
+            "type": "url",
+            "url": "https://sanctum.geek.nz/arabesque/series/unix-as-ide/"
+         }, {
+            "date_added": "13197446479361629",
+            "id": "124",
+            "meta_info": {
+               "last_visited": "13197446479365305"
+            },
+            "name": "std::collections::BTreeMap - Rust",
+            "sync_transaction_version": "90",
+            "type": "url",
+            "url": "https://doc.rust-lang.org/std/collections/struct.BTreeMap.html"
+         }, {
+            "date_added": "13197929879057254",
+            "id": "126",
+            "meta_info": {
+               "last_visited": "13197929879059750"
+            },
+            "name": "M345 Assignments",
+            "sync_transaction_version": "101",
+            "type": "url",
+            "url": "http://web.pdx.edu/~jfreder/M344/344HwkS09.html"
+         }, {
+            "date_added": "13198050909719371",
+            "id": "128",
+            "meta_info": {
+               "last_visited_desktop": "13198050909720036"
+            },
+            "name": "Distributing a Python command line application | Jan-Philip Gehrcke",
+            "sync_transaction_version": "110",
+            "type": "url",
+            "url": "https://gehrcke.de/2014/02/distributing-a-python-command-line-application/"
+         } ],
+         "date_added": "13196803072050195",
+         "date_modified": "13198050909719371",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

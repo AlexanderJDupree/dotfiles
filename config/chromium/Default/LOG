@@ -1,0 +1,12 @@
+2019/03/26-13:32:47.300 360d Recovering log #64
+2019/03/26-13:32:47.324 360d Level-0 table #66: started
+2019/03/26-13:32:47.390 360d Level-0 table #66: 686 bytes OK
+2019/03/26-13:32:47.537 360d Delete type=0 #64
+2019/03/26-13:32:47.538 360d Delete type=3 #63
+2019/03/26-13:32:47.538 3bff Compacting 4@0 + 0@1 files
+2019/03/26-13:32:47.618 3bff Compacted 4@0 + 0@1 files => 0 bytes
+2019/03/26-13:32:47.660 3bff compacted to: files[ 0 0 0 0 0 0 0 ]
+2019/03/26-13:32:47.661 3bff Delete type=2 #59
+2019/03/26-13:32:47.661 3bff Delete type=2 #45
+2019/03/26-13:32:47.661 3bff Delete type=2 #66
+2019/03/26-13:32:47.661 3bff Delete type=2 #56

@@ -7,3 +7,7 @@
 [submodule "bash/git-aware-prompt"]
 	path = bash/git-aware-prompt
 	url = https://github.com/jimeh/git-aware-prompt.git
+
+[submodule "oh-my-zsh"]
+    path = oh-my-zsh/
+    url = https://github.com/robbyrussell/oh-my-zsh.git 
