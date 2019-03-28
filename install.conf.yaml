@@ -1,8 +1,9 @@
 - defaults:
     link:
+      create: true
       relink: true
 
-- clean: ['~']
+- clean: ['~', '~/.config']
 
 - shell:
     -mkdir -p ~/.vim ~/.bash ~/.config ~/YCM-Generator ~/scripts
